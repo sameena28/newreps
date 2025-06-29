@@ -1,0 +1,1 @@
+az storage account create --name devstg12345 --resource-group CDPInterns-2397987-Persistent-RG --location centralus --sku Standard_LRS --kind StorageV2 --tags Project=DevEnvironment Owner=azure-dev-user
